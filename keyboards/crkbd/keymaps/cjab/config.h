@@ -1,0 +1,9 @@
+#pragma once
+
+#define MASTER_RIGHT
+
+#define USB_POLLING_INTERVAL_MS 1
+#define QMK_KEYS_PER_SCAN 12
+
+#define TAPPING_FORCE_HOLD
+#define TAPPING_TERM 175
